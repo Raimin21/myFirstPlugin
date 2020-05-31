@@ -1,0 +1,11 @@
+name: myFirstPlugin
+api-version: 1.15
+author: Raimin
+version: ${project.version}-loquequieras
+main: com.raimin.myFirstPlugin.Main
+description: Plugin to guapo
+#loadBefore: 
+commands: 
+    Comandoxd: {}
+        #description: xdlol
+        #usage: asñdklañ
